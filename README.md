@@ -1,2 +1,2 @@
-# NLP_Homeworks
-NLP Homeworks
+# NLP_Homework
+Homeworks completed for coursework on Natural Language Processing
